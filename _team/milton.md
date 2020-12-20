@@ -6,8 +6,8 @@ image: "https://avatars2.githubusercontent.com/u/55441239?s=460&u=d5767f8bdd99f1
 jobtitle: "Creator"
 linkedinurl: "https://www.linkedin.com/in/milton-chelani-834a681a0/"
 promoted: true
-weight: 2
+weight: 1
 layout: team
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
+I am Milton (@jmrchelani), multidisciplinary developer interested in the field of IT, having basic understanding of C++, Java, Flutter, Python, PAWN. I am learning App Development and also interested in Automation and machine learning.
