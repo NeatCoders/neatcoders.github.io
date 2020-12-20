@@ -10,4 +10,4 @@ weight: 1
 layout: team
 ---
 
-I am Milton (@jmrchelani), multidisciplinary developer interested in the field of IT, having basic understanding of C++, Java, Flutter, Python, PAWN. I am learning App Development and also interested in Automation and machine learning.
+I am Milton, multidisciplinary developer interested in the field of IT, having basic understanding of C++, Java, Flutter, Python, PAWN.
