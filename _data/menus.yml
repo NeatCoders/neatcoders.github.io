@@ -5,7 +5,10 @@ main:
   - name: "About"
     url: "/about/"
     weight: 3
-
+  - name: "Snippets"
+    url: "/snippets"
+    weight: 4
+    
 footer:
   - name: "Home"
     url: "/"
