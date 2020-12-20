@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Fast Snippets",
+    "description": "There are variety of snippets available on this site.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Tutorials and Guides",
+    "description": "Highly descriptive and content rich tutorials and guides available..",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Open Source",
+    "description": "Everything is planned to be open sourced, tutorials, scripts and projects!",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
